@@ -4,4 +4,4 @@
 - In both frontend and backend directories, install dev dependencies with <code>npm i</code> 
 - In both frontend and backend directories, run with <code>npm start</code> 
 
-![missingImg](images/mernpage.png)
+![missingImg](imgs/mernpage.png)
